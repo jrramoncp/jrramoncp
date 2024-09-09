@@ -1,6 +1,6 @@
 ## Hola, soy Jose Ramón
 
-Actualmente estoy aprendiendo a programars se utilizar Python, Html, Javascript y CSS, aunque continuo formandome para profesionalizarme. 
+Actualmente estoy aprendiendo a programar, sé utilizar Python, Html, Javascript y CSS, aunque continuo formandome para profesionalizarme. 
 
 <!--
 **jrramoncp/jrramoncp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
