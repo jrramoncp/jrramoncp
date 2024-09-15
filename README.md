@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ramon 👋
+# ¡Hola! Soy Jose Ramon 👋
 
 ### Sobre mí:
 - 🧑‍💻 Estudiando **Desarrollo Fullstack**.
