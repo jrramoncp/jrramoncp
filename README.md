@@ -1,18 +1,18 @@
-## Hola, soy Jose Ramón
+# ¡Hola! Soy Ramon 👋
 
-Actualmente estoy aprendiendo a programar, sé utilizar Python, Html, Javascript y CSS, aunque continuo formandome para profesionalizarme. 
+### Sobre mí:
+- 🧑‍💻 Estudiando **Desarrollo Fullstack**.
+- 🚀 Explorando el mundo del **desarrollo web** y **Python**.
+- 🎯 Buscando siempre mejorar mis habilidades de **backend** y **frontend**.
 
-<!--
-**jrramoncp/jrramoncp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologías y herramientas:
+- Lenguajes: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+- Herramientas: ![Git](https://img.shields.io/badge/-Git-orange)
 
-Here are some ideas to get you started:
+### Proyectos destacados:
+- **[Lector de Artículos](https://github.com/jrramoncp/Lector_Articulos)**: Un lector de artículos que devuelvo un archivo .mp3 con el articulo en audio.
+- **[Etch A Sketch](https://github.com/jrramoncp/etch-a-skech/settings)**: Proyecto que recrea el clásico Etch A Sketch en la web utilizando HTML, CSS y JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacto:
+- 📧 Email: [joseramoncaravaca@gmail.com](mailto:joseramoncaravaca@gmail.com)
+- 💼 GitHub: [jrramoncp](https://github.com/jrramoncp)
